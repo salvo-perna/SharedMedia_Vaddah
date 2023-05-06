@@ -28,7 +28,7 @@ LSM:Register(MediaType_SOUND, "Vaddah: Le noltlend", [[Interface\AddOns\SharedMe
 LSM:Register(MediaType_SOUND, "Vaddah: Leoni e cani", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Leoni e cani.ogg]])
 LSM:Register(MediaType_SOUND, "Vaddah: Ma guarda sto mongolo", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Ma guarda sto mongolo.ogg]])
 LSM:Register(MediaType_SOUND, "Vaddah: Mammabombom", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Mammabombom.ogg]])
-LSM:Register(MediaType_SOUND, "Vaddah: Nice, [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Nice.ogg]])
+LSM:Register(MediaType_SOUND, "Vaddah: Nice", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Nice.ogg]])
 LSM:Register(MediaType_SOUND, "Vaddah: Oh mammini", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Oh mammini.ogg]])
 LSM:Register(MediaType_SOUND, "Vaddah: Only for exit", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Only for exit.ogg]])
 LSM:Register(MediaType_SOUND, "Vaddah: Orcodi", [[Interface\AddOns\SharedMedia_Vaddah\media\sounds\Orcodi.ogg]])
