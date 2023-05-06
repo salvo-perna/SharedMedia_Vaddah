@@ -1,0 +1,12 @@
+## Interface: 100100
+## Title: Vaddah's Media Pack
+## Notes: Vaddah's ustom medias.
+## Version: 1.0
+## IconTexture: Interface\AddOns\SharedMedia_Vaddah\media\textures\LogoVaddah
+## Author: |cff808080bVaddah#5341|r
+## X-Credits: Elkano
+## X-Category: Miscellaneous
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+
+embeds.xml
+SharedMedia_Vaddah.lua
