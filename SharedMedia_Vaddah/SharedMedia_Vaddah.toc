@@ -1,5 +1,5 @@
 ## Interface: 100100
-## Title: SharedMedia_Vaddah
+## Title: <SharedMediaVaddah>
 ## Notes: Vaddah's custom media
 ## Version: 1.0
 ## IconTexture: Interface\AddOns\SharedMedia_Vaddah\media\textures\LogoVaddah
